@@ -202,14 +202,7 @@ Users can submit:
 
 ---
 
-## 🐧 Linux Setup
 
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/Gowtham071205/Smart-Resume-Analyzer.git
-cd Smart-Resume-Analyzer
-```
 
 ### 2️⃣ Install Linux Dependencies
 
